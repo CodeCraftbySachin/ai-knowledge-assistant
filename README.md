@@ -93,9 +93,19 @@ Mac/Linux:
 export GROQ_API_KEY="your_api_key"
 ```
 ### 4. Run the project
+
+You can run the project in two ways:
+
+#### Option A: Streamlit Web UI (Recommended)
+```
+streamlit run streamlit_app.py
+```
+
+#### Option B: CLI Version
 ```
 python app.py
 ```
+
 - Example Usage
 - Select Role: teacher
 - You: What is Python?
