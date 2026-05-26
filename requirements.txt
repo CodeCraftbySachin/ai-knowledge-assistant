@@ -4,3 +4,5 @@ langchain-groq
 sentence-transformers
 faiss-cpu
 numpy
+python-dotenv
+langchain-text-splitters
